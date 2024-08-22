@@ -1,14 +1,14 @@
 body {
     margin: 0px;
     color: whitesmoke;
-    background: rgb(173, 47, 207);
-    font-family: "Pixelify Sans", sans-serif;
+    background:rgb(206, 64, 163);
+    font-family: "Matemasie", sans-serif;
     margin-bottom: 100px;
 }
 
 
 header {
-    border-bottom: solid 2px rgb(176, 196, 222);
+    border-bottom: solid 2px rgb(238, 88, 218);
     padding: 20px;
     font-size: 32px;
     color: whitesmoke
@@ -16,7 +16,7 @@ header {
 
 
 .chamada {
-    background: rgb(106, 90, 205);
+    background: rgb(233, 81, 208);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -68,24 +68,4 @@ p {
 
 .categoria h2 {
     color: whitesmoke;
-}
-
-
-body {
-    margin: 0px;
-    color: whitesmoke;
-    background: rgb(123, 104, 238);
-    font-family: "Pixelify Sans", sans-serif;
-    margin-bottom: 100px;
-}
-
-
-header {
-    border-bottom: solid 2px rgb(176, 196, 222);
-    padding: 20px;
-    font-size: 32px;
-    color: whitesmoke;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
